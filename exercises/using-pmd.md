@@ -8,7 +8,7 @@ J'ai exécuté la commande suivant sur le module common-math de java :
 pmd.bat -d C:\Users\ethomas\IdeaProjects\commons-math -R rulesets/java/empty.xml
 ``
 
-###Vrai positif
+### Vrai positif
 
 ```
 C:\Users\ethomas\IdeaProjects\commons-math\commons-math-legacy\src\test\java\org\apache\commons\math4\legacy\ode\nonstiff\AdamsBashforthIntegratorTest.java:282:        ReturnEmptyCollectionRatherThanNull:    Return an empty collection rather than null.
